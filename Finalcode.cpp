@@ -37,7 +37,7 @@ int main(){
 		double kp = 0.00065;
 		double adjust = 0;
 		
-		//Quad 2: Following Line	
+		//Quad 2 & 3: Following Line	
 		
 	while(true){
 			
